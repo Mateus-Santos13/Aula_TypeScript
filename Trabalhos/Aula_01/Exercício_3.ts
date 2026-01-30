@@ -17,4 +17,4 @@ for(let i = 0; i < 10; i++){
 }
 
 console.log("Listar dados do Set:");
-numeros.forEach(numero => console.log(numero));// Para cada um dos valores dentro da collection set, printa o valor. 
+numeros.forEach(numero => console.log(numero));// Para cada um dos valores dentro da collection set, printa o valor.
